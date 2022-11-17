@@ -2,5 +2,12 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "cSpell.words": [
         "acum"
-    ]
+    ],
+    "files.associations": {
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "fstream": "cpp"
+    }
 }
